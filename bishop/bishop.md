@@ -42,6 +42,8 @@ Y: 1
 
 **Output:** "The shortsighted bishop attacks 7 squares"
 
+![Alt text](/board_8x8_1.png?raw=true "Optional Title")
+
 -
 
 **Example 2**
