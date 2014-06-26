@@ -33,8 +33,11 @@ Example
 **Example 1**
 
 **Input:**
+
 Size of board: 8
+
 X: 1
+
 Y: 1
 
 **Output:** "The shortsighted bishop attacks 7 squares"
@@ -44,6 +47,7 @@ Y: 1
 **Example 2**
 
 **Input:**
+
 Size of board: 8
 
 X: 4
@@ -56,8 +60,11 @@ Y: 4
 **Example 3**
 
 **Input:**
+
 Size of board: 4
+
 X: 2
+
 Y: 2
 
 **Output:** "The shortsighted bishop attacks 5 squares"
