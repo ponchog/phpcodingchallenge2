@@ -39,6 +39,15 @@ Output
 -
 You have to output the Users BAC (blood alcohol concentration percentage) and a Message related to their BAC: 
 
+If your %BAC is below 0.05 you have to print "C'mon! Are you serious? Get back to the bar!"
+
+If your %BAC is between 0.05 and 0.08 you have to print "Getting there dude..."
+
+If your %BAC is greater than 0.08 and less than 0.20 you have to print "Better call Uber!"
+
+If your %BAC is equal or greater than  0.20 you have to print "It doesn't matter anymore, you probably won't be able to read this..."
+
+
 Example
 -
 
