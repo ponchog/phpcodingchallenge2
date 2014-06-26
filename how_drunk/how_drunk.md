@@ -32,7 +32,7 @@ r = is the alcohol distribution ratio which for men is 0.73 and for women is 0.6
 Input
 -
 Inputs: User Weight, User Sex, Hours Spent Drinking, # of Beers, # of Wine Glasses, # of Tequila Shots
-We Will provide the formula needed to calculate BAC
+We Will provide the formula needed to calculate BAC (See section above)
 
 
 Output
