@@ -11,12 +11,14 @@ The program will take in multiple inputs then output the Users BAC (blood alcoho
 
 You will need this
 -
-$ratioMen = 0.73;
-$ratioWomen = 0.66; (
+
 Liquid Ounces of Alcohol per beer bottle = 0.60
+
 Liquid Ounces of Alcohol per glass of wine = 0.65
+
 Liquid Ounces of Alcohol per tequila shot = 70
 
+This is how you calculate your %BAC
 
 %BAC = (A x 5.14/W x r) – .015 x H
 
