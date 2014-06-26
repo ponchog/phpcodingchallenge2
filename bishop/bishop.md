@@ -42,7 +42,7 @@ Y: 1
 
 **Output:** "The shortsighted bishop attacks 7 squares"
 
-![Alt text](/board_8x8_1.png"Optional Title")
+![Alt text](https://github.com/ponchog/phpcodingchallenge2/blob/master/bishop/board_8x8_2.png)
 
 -
 
