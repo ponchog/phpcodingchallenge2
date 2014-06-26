@@ -45,7 +45,9 @@ Y: 1
 
 **Input:**
 Size of board: 8
+
 X: 4
+
 Y: 4
 
 **Output:** "The shortsighted bishop attacks 13 squares"
