@@ -60,6 +60,75 @@ Enter your Sex: M
 
 Hours spent drinking: 4
 
+Bottles of Beers: 6
+
+Glasses of Wine: 0
+
+Shots of Tequila: 1
+
+
+**Output:**
+-
+Your BAC % is 0.1994
+
+Better call Uber!
+
+
+**Example 2**
+
+**Input:**
+Enter Your Weight: 160
+
+Enter your Sex: F
+
+Hours spent drinking: 5
+
+Bottles of Beers: 1
+
+Glasses of Wine: 0
+
+Shots of Tequila: 1
+
+
+**Output:**
+-
+Your BAC % is 0.0223
+
+C'mon! Are you serious? Get back to the bar!
+
+
+**Example 3**
+
+**Input:**
+Enter Your Weight: 120
+
+Enter your Sex: F
+
+Hours spent drinking: 3
+
+Bottles of Beers: 2
+
+Glasses of Wine: 6
+
+Shots of Tequila: 9
+
+
+**Output:**
+-
+Your BAC % is 1.0583
+
+It doesn't matter anymore, you probably won't be able to read this...
+
+
+**Example 4**
+
+**Input:**
+Enter Your Weight: 220
+
+Enter your Sex: M
+
+Hours spent drinking: 4
+
 Bottles of Beers: 4
 
 Glasses of Wine: 0
@@ -69,6 +138,6 @@ Shots of Tequila: 0
 
 **Output:**
 -
-Your BAC % is 0.2735
+Your BAC % is 0.0680
 
-It doesn't matter anymore, you probably won't be able to read this...
+Getting there dude...
