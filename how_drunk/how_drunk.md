@@ -9,7 +9,20 @@ Specifications
 The program will take in multiple inputs then output the Users BAC (blood alcohol concentration percentage) and a Message related to their BAC: 
 
 
+You will need this
+-
+$ratioMen = 0.73;
+$ratioWomen = 0.66; (
+Liquid Ounces of Alcohol per beer bottle = 0.60
+Liquid Ounces of Alcohol per glass of wine = 0.65
+Liquid Ounces of Alcohol per tequila shot = 70
 
+
+%BAC = (A x 5.14/W x r) – .015 x H
+
+A = Total liquid ounces
+W = Weight
+r = is the alcohol distribution ratio which for men is 0.73 and for women is 0.66
 
 Input
 -
@@ -33,12 +46,14 @@ Enter your Sex: M
 
 Hours spent drinking: 4
 
-/# of Beers: 4
-/# of Wine: 0
-/# of Tequila: 0
+Bottles of Beers: 4
+
+Glasses of Wine: 0
+
+Shots of Tequila: 0
 
 
-**Output:** "The shortsighted bishop attacks 7 squares"
+**Output:** ""
 
 ![bishop1](https://raw.githubusercontent.com/ponchog/phpcodingchallenge2/master/bishop/board_8x8_1.png)
 
