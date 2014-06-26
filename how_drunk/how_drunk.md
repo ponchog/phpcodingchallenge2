@@ -69,3 +69,6 @@ Shots of Tequila: 0
 
 **Output:**
 -
+Your BAC % is 0.2735
+
+It doesn't matter anymore, you probably won't be able to read this...
