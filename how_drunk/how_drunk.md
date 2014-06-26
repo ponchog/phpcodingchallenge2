@@ -50,7 +50,7 @@ If your %BAC is equal or greater than  0.20 you have to print "It doesn't matter
 
 Example
 -
-
+-
 **Example 1**
 
 **Input:**
@@ -73,7 +73,7 @@ Your BAC % is 0.1994
 
 Better call Uber!
 
-
+-
 **Example 2**
 
 **Input:**
@@ -96,7 +96,7 @@ Your BAC % is 0.0223
 
 C'mon! Are you serious? Get back to the bar!
 
-
+-
 **Example 3**
 
 **Input:**
@@ -119,7 +119,7 @@ Your BAC % is 1.0583
 
 It doesn't matter anymore, you probably won't be able to read this...
 
-
+-
 **Example 4**
 
 **Input:**
