@@ -17,7 +17,7 @@ Specifications
 Input
 -
 
-- You will be given the size of the board. Since the chess board is a square you will be given only one number. i.e. if you are given the number 4, it means the board is 4 x 4, etc.
+- You will be given the size of the board. Since the chess board is a square you will be given only one number. i.e. if the board size is 4, it means the board is 4 x 4, if the board size is 8, it means the board is actually 8 x 8, etc.
 - You will be given the X coordinate where the bishop is placed in the board.
 - You will be given the Y coordinate where the bishop is placed in the board.
 
@@ -25,12 +25,7 @@ Output
 -
 You will output a single number that represents the number of squares being attacked
 
-**"Large Pizzas: X"**
-
-**"Medium Pizzas: Y"**
-
-**"Small Pizzas: Z"**
-
+"The shortsighted bishop attacks N squares"
 
 Example
 -
@@ -38,66 +33,37 @@ Example
 **Example 1**
 
 **Input:**
-
-"How many guests eat only 1 slice of pizza:" 8
-
-"How many guests eat 2 slices of pizza:" 0
-
-"How many guests eat 3 slices of pizza:" 0
-
-"How many guests eat 4 slices of pizza:" 0
+Size of board: 8
+X: 1
+Y: 1
 
 **Output:**
 
-"Large Pizzas: 1"
-
-"Medium Pizzas: 0"
-
-"Small Pizzas: 0"
+"The shortsighted bishop attacks 7 squares"
 
 -
 
 **Example 2**
 
 **Input:**
-
-"How many guests eat only 1 slice of pizza:" 3
-
-"How many guests eat 2 slices of pizza:" 0
-
-"How many guests eat 3 slices of pizza:" 0
-
-"How many guests eat 4 slices of pizza:" 0
+Size of board: 8
+X: 4
+Y: 4
 
 **Output:**
 
-"Large Pizzas: 0"
-
-"Medium Pizzas: 0"
-
-"Small Pizzas: 1"
+"The shortsighted bishop attacks 13 squares"
 
 -
-
 **Example 3**
 
 **Input:**
-
-"How many guests eat only 1 slice of pizza:" 10
-
-"How many guests eat 2 slices of pizza:" 10
-
-"How many guests eat 3 slices of pizza:" 10
-
-"How many guests eat 4 slices of pizza:" 10
+Size of board: 4
+X: 2
+Y: 2
 
 **Output:**
 
-"Large Pizzas: 12"
+"The shortsighted bishop attacks 5 squares"
 
-"Medium Pizzas: 0"
-
-"Small Pizzas: 1"
-
-
-
+-
