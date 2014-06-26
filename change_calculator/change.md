@@ -1,4 +1,4 @@
-Change Calculator (3 Points)
+Change Calculator (2 Points)
 =
 
 The Challenge
