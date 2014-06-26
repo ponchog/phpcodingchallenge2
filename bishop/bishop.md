@@ -5,12 +5,14 @@ The challenge
 -
 This is the story of a shortsighted Bishop, this poor bishop just couldn’t see beyond his nose! The problem is that he doesn’t know how many squares he is attacking from his current position. And for a bishop, well, that’s pretty bad. So he needs you to help him find out how many squares he is attacking from his current position.
 
-These are the sizes of the pizzas
-- Large - 8 slices
-- Medium - 6 slices
-- Small - 4 slices
+Specifications
+-
+- Your solution should work for any chess board size.
+- A chess board is always a square.
+- Bishops can only move diagonally.
+- The bishop can be placed on any square of the board (black or white).
+- Find the number of squares the bishop is attacking without including his own square.
 
-After you gather all the data, you enter it into your program and it magically gives you the right answer.
 
 Input
 -
