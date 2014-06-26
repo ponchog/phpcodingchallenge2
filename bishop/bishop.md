@@ -37,9 +37,7 @@ Size of board: 8
 X: 1
 Y: 1
 
-**Output:**
-
-"The shortsighted bishop attacks 7 squares"
+**Output:** "The shortsighted bishop attacks 7 squares"
 
 -
 
@@ -50,9 +48,7 @@ Size of board: 8
 X: 4
 Y: 4
 
-**Output:**
-
-"The shortsighted bishop attacks 13 squares"
+**Output:** "The shortsighted bishop attacks 13 squares"
 
 -
 **Example 3**
@@ -62,8 +58,6 @@ Size of board: 4
 X: 2
 Y: 2
 
-**Output:**
-
-"The shortsighted bishop attacks 5 squares"
+**Output:** "The shortsighted bishop attacks 5 squares"
 
 -
