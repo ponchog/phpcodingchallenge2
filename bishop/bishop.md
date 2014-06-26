@@ -16,19 +16,14 @@ Specifications
 
 Input
 -
-You will ask the following:
 
-**"How many guests eat only 1 slice of pizza:"**
-
-**"How many guests eat 2 slices of pizza:"**
-
-**"How many guests eat 3 slices of pizza:"**
-
-**"How many guests eat 4 slices of pizza:"**
+- You will be given the size of the board. Since the chess board is a square you will be given only one number. i.e. if you are given the number 4, it means the board is 4 x 4, etc.
+- You will be given the X coordinate where the bishop is placed in the board.
+- You will be given the Y coordinate where the bishop is placed in the board.
 
 Output
 -
-After you entered how many of your guests eat 4 slices of pizza, your program will automatically calculate how many small, medium and large pizzas you will need to satisfy your guests in this format:
+You will output a single number that represents the number of squares being attacked
 
 **"Large Pizzas: X"**
 
