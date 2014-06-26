@@ -17,15 +17,29 @@ Specifications
 Input
 -
 
-- You will be given the size of the board. Since the chess board is a square you will be given only one number. i.e. if the board size is 4, it means the board is 4 x 4, if the board size is 8, it means the board is actually 8 x 8, etc.
-- You will be given the X coordinate where the bishop is placed in the board.
-- You will be given the Y coordinate where the bishop is placed in the board.
+- You will be given the full list of Spurs Points for each game during the 2014 playoff run:
+- 90, 92, 108, 93, 109, 111, 119, 116, 114, 118, 92, 104, 122, 112, 97, 92, 117, 112, 110, 96, 111, 107, 104
+
 
 Output
 -
-You will output a single number that represents the number of squares being attacked.
+Your Output should be formatted as follows:
 
-"The shortsighted bishop attacks N squares"
+- Total # of Games: XX
+- Total Points Scores: XX
+- Average Scores: XX
+- 5 Highest Scoring Games:
+ X
+ X
+ X
+ X
+ X
+- 5 Lowest Scoring Games:
+ X
+ X
+ X
+ X
+ X
 
 Example
 -
