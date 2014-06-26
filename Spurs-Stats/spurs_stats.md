@@ -8,7 +8,7 @@ The Spurs made an incredible run for the 2014 NBA championship.  Take some time 
 Specifications
 -
 - Your solution should work for any chess board size.
-- A chess board is always a square.
+-- A chess board is always a square.
 - Bishops can only move diagonally.
 - The bishop can be placed on any square of the board (black or white).
 - Find the number of squares the bishop is attacking without including his own square.
