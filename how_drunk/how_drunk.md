@@ -33,9 +33,9 @@ Enter your Sex: M
 
 Hours spent drinking: 4
 
-# of Beers: 4
-# of Wine: 0
-# of Tequila: 0
+/# of Beers: 4
+/# of Wine: 0
+/# of Tequila: 0
 
 
 **Output:** "The shortsighted bishop attacks 7 squares"
