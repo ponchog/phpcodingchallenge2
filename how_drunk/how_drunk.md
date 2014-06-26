@@ -3,16 +3,13 @@ How Drunk are You? (6 Point)
 
 The Challenge
 -
-The Spurs made an incredible run for the 2014 NBA championship.  Take some time to recognize this amazing feat by analyzing their buckets per game!
-
+Due to the high number of Spurs and FIFA World Cup fans being caught lately by the police while drunk driving, you have been assigned the task to develop a little program that can tell people how drunk they really are before driving
 Specifications
 -
-- Have your program processes all of the scores and calculate the following stats:
-- Total # of games played
-- Total number of points scored
-- Average score per game
-- List top 5 highest scoring games
-- List top 5 lowest scoring games
+The program will take in multiple inputs then output the Users BAC (blood alcohol concentration percentage) and a Message related to their BAC: 
+Inputs: User Weight, User Sex, Hours Spent Drinking, # of Beers, # of Wine Glasses, # of Tequila Shots
+We Will provide the formula needed to calculate BAC
+
 
 
 
