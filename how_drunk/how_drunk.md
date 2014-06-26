@@ -21,3 +21,25 @@ Output
 -
 You have to output the Users BAC (blood alcohol concentration percentage) and a Message related to their BAC: 
 
+Example
+-
+
+**Example 1**
+
+**Input:**
+Enter Your Weight: 190
+
+Enter your Sex: M
+
+Hours spent drinking: 4
+
+# of Beers: 4
+# of Wine: 0
+# of Tequila: 0
+
+
+**Output:** "The shortsighted bishop attacks 7 squares"
+
+![bishop1](https://raw.githubusercontent.com/ponchog/phpcodingchallenge2/master/bishop/board_8x8_1.png)
+
+-
