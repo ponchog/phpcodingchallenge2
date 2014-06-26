@@ -19,8 +19,8 @@ Specifications
 Input
 -
 
-- You will be given the full list of Spurs Points for each game during the 2014 playoff run:
-- 90, 92, 108, 93, 109, 111, 119, 116, 114, 118, 92, 104, 122, 112, 97, 92, 117, 112, 110, 96, 111, 107, 104
+- You will be given the full list of Spurs Points for each game during the 2014 playoff run as a JSON file
+- You can download the file and then you must properly handle it to process the scores
 
 
 Output
