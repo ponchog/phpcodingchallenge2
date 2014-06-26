@@ -23,8 +23,11 @@ This is how you calculate your %BAC
 %BAC = (A x 5.14/W x r) – .015 x H
 
 A = Total liquid ounces
+
 W = Weight
+
 r = is the alcohol distribution ratio which for men is 0.73 and for women is 0.66
+
 
 Input
 -
@@ -55,8 +58,5 @@ Glasses of Wine: 0
 Shots of Tequila: 0
 
 
-**Output:** ""
-
-![bishop1](https://raw.githubusercontent.com/ponchog/phpcodingchallenge2/master/bishop/board_8x8_1.png)
-
+**Output:**
 -
