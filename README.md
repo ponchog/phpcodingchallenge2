@@ -25,12 +25,13 @@ Welcome to the 2nd PHP Coding Challenge!
 
 6 "Real World" Problems to pick from. Choose wisely!
 <ul>
-	<li>1) Morse Code Translator : 7 points</li>
-	<li>2) Pizza Calculator : 5 points</li>
-	<li>3) English => Pig Latin : 3 points</li>
-	<li>4) Pig Latin => English : 3 points</li>
-	<li>5) Currency Converter : 2 points</li>
-	<li>6) 99 Bottles Song : 1 point</li>
+	<li>1) How drunk are you?: 6 points</li>
+	<li>2) Change Calculator: 2 points</li>
+	<li>3) Spurs Stats: 1 point</li>
+	<li>4) Arabic to Roman Converter: 4 points</li>
+	<li>5) Leap Year Identifier : 3 points</li>
+	<li>6) The Shortsighted Bishop : 7 points</li>
+	<li>7) Largest Prime Factor: 4 points </li>
 </ul>
 
 <b>EVALUATION CRITERIA</b>
@@ -55,11 +56,10 @@ Welcome to the 2nd PHP Coding Challenge!
 <b>GOOD LUCK!</b>
 
 <ul>
-	<li>Late entries?</li>
-	<li>www.techuphq.com</li>
 	<li>Challenge Description and JSON file:</li>
 	<li>https://github.com/ponchog/phpcodingchallenge</li>
 	<li>Rafa Barroso (<a href="mailto:rafa@parlevelsystems.com">rafa@parlevelsystems.com</a>)</li>
 	<li>Poncho García (<a href="mailto:poncho@parlevelsystems.com">poncho@parlevelsystems.com</a>)</li>
+	<li>Corey Kepple (<a href="mailto:corey@parlevelsystems.com">corey@parlevelsystems.com</a>)</li>
 	<li>If you have any questions, don't hesitate to ask!</li>
 </ul>
