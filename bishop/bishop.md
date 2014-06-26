@@ -57,6 +57,7 @@ X: 4
 Y: 4
 
 **Output:** "The shortsighted bishop attacks 13 squares"
+
 ![bishop2](https://raw.githubusercontent.com/ponchog/phpcodingchallenge2/master/bishop/board_8x8_2.png)
 
 -
@@ -71,6 +72,7 @@ X: 2
 Y: 2
 
 **Output:** "The shortsighted bishop attacks 5 squares"
+
 ![bishop3](https://raw.githubusercontent.com/ponchog/phpcodingchallenge2/master/bishop/board_4x4_1.png)
 
 -
