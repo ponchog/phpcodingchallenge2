@@ -20,7 +20,7 @@ Input
 -
 
 - You will be given the full list of Spurs Points for each game during the 2014 playoff run as a JSON file
-- Download the file from this directory and then you must properly handle it to process the scores
+- Download the file from this directory, then you must properly handle it to process the scores
 
 
 Output
@@ -28,7 +28,7 @@ Output
 Your Output should be formatted as follows:
 
 - Total # of Games: XX
-- Total Points Scores: XX
+- Total Points Scored: XX
 - Average Scores: XX
 - 5 Highest Scoring Games:
  X
