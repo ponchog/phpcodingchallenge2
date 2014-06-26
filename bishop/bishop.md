@@ -23,7 +23,7 @@ Input
 
 Output
 -
-You will output a single number that represents the number of squares being attacked
+You will output a single number that represents the number of squares being attacked.
 
 "The shortsighted bishop attacks N squares"
 
