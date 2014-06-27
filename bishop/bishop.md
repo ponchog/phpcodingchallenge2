@@ -1,4 +1,4 @@
-The Shortsighted Bishop (6 Points)
+The Shortsighted Bishop (7 Points)
 =
 
 The challenge
