@@ -16,7 +16,7 @@ Liquid Ounces of Alcohol per beer bottle = 0.60
 
 Liquid Ounces of Alcohol per glass of wine = 0.65
 
-Liquid Ounces of Alcohol per tequila shot = 70
+Liquid Ounces of Alcohol per tequila shot = 0.70
 
 This is how you calculate your %BAC
 
