@@ -28,6 +28,7 @@ W = Weight
 
 r = is the alcohol distribution ratio which for men is 0.73 and for women is 0.66
 
+H = Hours
 
 Input
 -
