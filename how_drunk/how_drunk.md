@@ -1,4 +1,4 @@
-How Drunk are You? (6 Point)
+How Drunk are You? (5 Point)
 =
 
 The Challenge
